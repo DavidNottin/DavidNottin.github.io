@@ -1,3 +1,14 @@
 body {
-    font-family: monospace;
+    font-family: Arial, sans-serif;
+
 }
+
+header {
+    height: 200px; /* Augmentation de la hauteur du header */
+    background-color: #0d5dec;
+}
+
+.container-fluid {
+    margin-top: 200px; /* Ajuster la marge supérieure pour éviter le recouvrement */
+}
+
