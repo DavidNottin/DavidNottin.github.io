@@ -9,6 +9,9 @@ header {
 }
 
 .container-fluid {
-    margin-top: 200px; /* Ajuster la marge supérieure pour éviter le recouvrement */
+    margin-top: 208px; /* Ajuster la marge supérieure pour éviter le recouvrement */
 }
 
+.carousel-inner img {
+  margin: auto;
+}
